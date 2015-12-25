@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:state_pressed="true" android:drawable="@drawable/blog_2" />
+	<item android:state_focused="true" android:drawable="@drawable/blog_2" />
+	<item android:drawable="@drawable/blog_1" />
+</selector>
+<!-- From: file:/C:/Users/002/Desktop/tmp/client/app/src/main/res/drawable/xml_list_blog_bg.xml -->

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+	<gradient android:startColor="@color/menu1" android:endColor="@color/menu2"
+		android:angle="270" />
+	<corners android:radius="0dip" />
+</shape><!-- From: file:/C:/Users/002/Desktop/tmp/client/app/src/main/res/drawable/xml_menu_bg_1.xml -->
